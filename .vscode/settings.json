@@ -1,0 +1,9 @@
+{
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "/home/szabi/Documents/stargate/adapter/bin",
+      "binaryPath": "/home/szabi/Documents/stargate/adapter/bin/adapter",
+      "binaryArgs": []
+    }
+  ]
+}
